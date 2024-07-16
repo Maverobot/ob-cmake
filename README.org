@@ -1,0 +1,9 @@
+#+title: ob-cmake
+* Usage
+Add the following to your ~init.el~ file:
+
+#+begin_src emacs-lisp
+  (use-package ob-cmake
+      :load-path "/path/to/ob-cmake")
+  (add-to-list 'org-babel-load-languages '(cmake . t))
+#+end_src

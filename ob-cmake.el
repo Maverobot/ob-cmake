@@ -1,4 +1,4 @@
-;;; ob-cmake.el --- org-babel functions for cmake evaluation
+;;; ob-cmake.el --- org-babel functions for cmake evaluation -*- lexical-binding: nil; -*-
 
 ;; Copyright (C) Zheng Qu
 
